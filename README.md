@@ -1,15 +1,16 @@
 # SpringSuitProject_Restful_Stock
 
-This project was implemented with:
+# This project was implemented with:
 STS 4 - Spring Tool Suite 4. (https://spring.io/tools)
 
+# Supporting Resting tool
 The tests of Java methods was carried out with google Chrome plugin: 
 Restman 
 
-The java classes which implement the required tasks are located at: 
+# The java classes which implement the required tasks are located at: 
 SpringSuitProject_Restful_Stock/gs-rest-service-complete/src/main/java/com/example/restservice/
 
-The Classes are the following:
+# The Classes are the following:
 
 Stock.java - Class responsible to control behavior and functions of each stock elemente.
 
